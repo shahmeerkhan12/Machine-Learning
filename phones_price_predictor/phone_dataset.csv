@@ -1,0 +1,201 @@
+Phone Name,Manufacturer,OS,Storage (GB),RAM (GB),Screen Size (in),Internet Network,Price (USD),Performance Score
+Apple Pro Max_0,Apple,iOS,128,12,6.2,5G,526,68
+Apple Pro Max_1,,iOS,1024,16,6.1,5G,783,81
+Samsung Galaxy_2,Samsung,Android,128,12,6.9,5G,513,75
+Samsung Galaxy_3,Samsung,Android,,12,6.2,4G LTE,575,69
+Motorola Galaxy_4,Motorola,Android,64,4,6.5,5G,297,43
+OnePlus Galaxy_5,OnePlus,Android,64,6,6.6,4G LTE,337,43
+OnePlus Galaxy_6,OnePlus,Android,128,4,6,4G LTE,380,42
+OnePlus Galaxy_7,OnePlus,Android,256,12,6.4,5G,854,87
+Motorola Galaxy_8,Motorola,,128,12,6.4,,,67
+Google Galaxy_9,Google,Android,128,8,6.4,4G LTE,637,73
+Motorola Galaxy_10,Motorola,Android,,4,6.6,4G LTE,208,50
+Xiaomi Galaxy_11,Xiaomi,Android,1024,,6.7,5G,968,91
+Vivo Galaxy_12,Vivo,Android,256,16,6.8,5G,893,84
+Oppo Galaxy_13,Oppo,Android,256,12,6.8,5G,513,65
+Apple Pro Max_14,Apple,iOS,64,4,6.2,4G LTE,239,60
+Oppo Galaxy_15,Oppo,Android,64,6,6.7,4G LTE,297,59
+Samsung Galaxy_16,Samsung,Android,128,12,6.1,5G,729,71
+Oppo Galaxy_17,Oppo,Android,,12,6.8,4G LTE,402,69
+Apple Pro Max_18,Apple,iOS,256,8,6.2,5G,479,72
+Samsung Galaxy_19,Samsung,,256,12,6.5,5G,410,64
+Xiaomi Galaxy_20,Xiaomi,Android,128,8,6.1,,691,63
+Apple Pro Max_21,Apple,iOS,64,4,6.8,4G LTE,368,55
+Oppo Galaxy_22,Oppo,Android,128,,6.5,5G,560,73
+Vivo Galaxy_23,,Android,,8,6.5,4G LTE,516,63
+Xiaomi Galaxy_24,Xiaomi,Android,128,8,6.3,4G LTE,437,62
+Samsung Galaxy_25,Samsung,Android,256,8,6.4,5G,664,68
+Xiaomi Galaxy_26,Xiaomi,,64,6,6.6,,262,55
+Apple Pro Max_27,Apple,iOS,256,12,6.7,5G,617,74
+Samsung Galaxy_28,Samsung,Android,128,8,6.1,4G LTE,607,71
+Xiaomi Galaxy_29,Xiaomi,Android,,,6.2,4G LTE,235,53
+Xiaomi Galaxy_30,Xiaomi,Android,128,12,6,4G LTE,682,64
+Apple Pro Max_31,Apple,iOS,64,4,6.7,4G LTE,304,55
+Oppo Galaxy_32,Oppo,Android,64,4,6.6,4G LTE,,40
+Vivo Galaxy_33,Vivo,Android,512,16,6.8,,1464,92
+Vivo Galaxy_34,Vivo,Android,256,12,6,,1054,84
+Samsung Galaxy_35,Samsung,Android,1024,16,6.9,5G,809,81
+Google Galaxy_36,Google,Android,128,8,6.9,4G LTE,496,63
+Xiaomi Galaxy_37,Xiaomi,Android,128,4,6.9,,345,47
+Apple Pro Max_38,Apple,,256,12,6.5,4G LTE,534,67
+Oppo Galaxy_39,Oppo,Android,128,12,6.1,4G LTE,635,71
+Vivo Galaxy_40,Vivo,Android,64,4,6.8,4G LTE,337,46
+Motorola Galaxy_41,Motorola,Android,128,8,6.2,5G,590,70
+OnePlus Galaxy_42,OnePlus,Android,64,6,6.2,4G LTE,369,43
+Apple Pro Max_43,Apple,iOS,1024,12,6.9,5G,1029,85
+Motorola Galaxy_44,Motorola,Android,128,12,6.4,4G LTE,659,76
+Apple Pro Max_45,,iOS,256,12,6.5,5G,423,61
+OnePlus Galaxy_46,OnePlus,Android,,,6.8,4G LTE,683,74
+Apple Pro Max_47,Apple,iOS,128,8,6.5,5G,,62
+Google Galaxy_48,Google,,,8,6.5,4G LTE,422,70
+Motorola Galaxy_49,Motorola,Android,64,4,6.5,4G LTE,370,43
+Oppo Galaxy_50,Oppo,Android,1024,12,6.2,,993,94
+Google Galaxy_51,Google,Android,256,8,6.6,4G LTE,492,71
+OnePlus Galaxy_52,OnePlus,Android,256,12,6,5G,1142,94
+Xiaomi Galaxy_53,Xiaomi,Android,256,16,6.3,5G,1109,85
+Xiaomi Galaxy_54,Xiaomi,Android,256,12,6.4,5G,543,63
+Oppo Galaxy_55,Oppo,Android,1024,16,6.4,,779,82
+OnePlus Galaxy_56,OnePlus,Android,64,4,6.5,,352,53
+Motorola Galaxy_57,Motorola,Android,,4,6.3,,298,58
+Oppo Galaxy_58,Oppo,Android,64,4,6.1,,293,53
+Motorola Galaxy_59,Motorola,Android,256,8,6.4,5G,554,77
+Motorola Galaxy_60,Motorola,,256,12,6.3,5G,684,65
+Oppo Galaxy_61,Oppo,Android,128,12,6,5G,608,78
+OnePlus Galaxy_62,OnePlus,Android,256,16,6.5,5G,1344,90
+Vivo Galaxy_63,Vivo,Android,128,12,6.4,5G,487,63
+Apple Pro Max_64,Apple,,128,12,6.2,4G LTE,516,67
+Xiaomi Galaxy_65,Xiaomi,Android,256,8,6.9,4G LTE,634,74
+Oppo Galaxy_66,Oppo,Android,128,6,6,5G,262,44
+Apple Pro Max_67,,iOS,512,12,6.8,5G,931,93
+Xiaomi Galaxy_68,Xiaomi,Android,64,6,6.8,5G,234,54
+Motorola Galaxy_69,Motorola,Android,512,16,6.2,5G,1312,88
+Vivo Galaxy_70,Vivo,Android,,,6.8,5G,527,69
+Xiaomi Galaxy_71,Xiaomi,Android,,,6.3,4G LTE,219,49
+Motorola Galaxy_72,Motorola,Android,64,4,6.6,,238,47
+Xiaomi Galaxy_73,Xiaomi,Android,256,16,6.8,5G,1168,86
+Samsung Galaxy_74,Samsung,Android,128,12,6,5G,600,79
+Vivo Galaxy_75,Vivo,Android,128,12,6.6,4G LTE,553,73
+Vivo Galaxy_76,Vivo,,128,12,6,5G,624,76
+Motorola Galaxy_77,Motorola,Android,128,4,6.9,4G LTE,319,44
+Oppo Galaxy_78,Oppo,Android,128,8,6.2,5G,730,74
+Google Galaxy_79,Google,Android,,6,6.3,,297,50
+Motorola Galaxy_80,Motorola,,,16,6.1,5G,1182,85
+Samsung Galaxy_81,Samsung,,256,8,6,4G LTE,,63
+Xiaomi Galaxy_82,Xiaomi,Android,128,8,6.3,,,65
+Vivo Galaxy_83,Vivo,Android,64,4,6.5,4G LTE,,48
+Apple Pro Max_84,Apple,iOS,128,12,6,5G,456,79
+Oppo Galaxy_85,Oppo,Android,256,8,6.3,4G LTE,439,79
+OnePlus Galaxy_86,OnePlus,Android,128,8,6.6,5G,578,78
+Apple Pro Max_87,Apple,iOS,256,8,6.1,4G LTE,616,76
+Motorola Galaxy_88,Motorola,Android,1024,16,6.6,4G LTE,1475,83
+OnePlus Galaxy_89,,Android,256,12,6.4,5G,624,79
+Xiaomi Galaxy_90,Xiaomi,Android,64,6,6.7,4G LTE,315,47
+Oppo Galaxy_91,Oppo,Android,256,8,6.2,5G,654,71
+Xiaomi Galaxy_92,Xiaomi,Android,256,12,6.9,5G,575,69
+Samsung Galaxy_93,Samsung,Android,128,8,6.7,4G LTE,524,74
+Vivo Galaxy_94,Vivo,Android,256,12,6.4,4G LTE,409,63
+Oppo Galaxy_95,Oppo,Android,128,12,6.5,5G,740,79
+Motorola Galaxy_96,Motorola,Android,256,12,6.4,5G,581,75
+OnePlus Galaxy_97,OnePlus,Android,128,8,6.1,4G LTE,499,71
+Xiaomi Galaxy_98,Xiaomi,Android,64,6,6.8,4G LTE,270,58
+Apple Pro Max_99,Apple,iOS,64,6,6.2,4G LTE,258,51
+Google Galaxy_100,Google,Android,128,4,6.4,4G LTE,213,57
+Google Galaxy_101,Google,Android,256,8,6.4,5G,407,79
+Vivo Galaxy_102,Vivo,Android,256,12,6.4,5G,495,62
+Apple Pro Max_103,Apple,iOS,128,12,6.9,5G,652,63
+Samsung Galaxy_104,Samsung,Android,256,12,6.1,5G,1327,85
+Apple Pro Max_105,Apple,iOS,256,8,6.7,5G,668,73
+OnePlus Galaxy_106,OnePlus,Android,256,12,6,4G LTE,692,80
+Xiaomi Galaxy_107,Xiaomi,,128,12,6.2,4G LTE,739,63
+Google Galaxy_108,Google,,128,8,6.7,5G,402,74
+OnePlus Galaxy_109,OnePlus,,64,4,6.7,4G LTE,273,49
+Xiaomi Galaxy_110,Xiaomi,Android,256,8,6.8,4G LTE,,64
+Google Galaxy_111,,Android,128,4,6.2,4G LTE,,41
+OnePlus Galaxy_112,OnePlus,Android,512,12,6.4,5G,1230,92
+OnePlus Galaxy_113,OnePlus,Android,1024,16,6.9,4G LTE,1199,82
+Oppo Galaxy_114,Oppo,Android,256,12,6.3,4G LTE,,63
+OnePlus Galaxy_115,OnePlus,Android,1024,12,6.8,5G,930,88
+OnePlus Galaxy_116,OnePlus,Android,256,16,6.7,5G,1401,94
+Vivo Galaxy_117,Vivo,Android,128,6,6.1,5G,285,50
+Motorola Galaxy_118,Motorola,Android,512,16,6.6,5G,1046,91
+Samsung Galaxy_119,Samsung,Android,256,8,6.5,4G LTE,562,69
+Oppo Galaxy_120,Oppo,Android,1024,12,6.8,5G,1424,94
+Samsung Galaxy_121,Samsung,,256,16,6.7,5G,1388,93
+Samsung Galaxy_122,Samsung,Android,128,12,6.4,5G,682,65
+Vivo Galaxy_123,Vivo,,64,4,6.3,4G LTE,361,59
+OnePlus Galaxy_124,OnePlus,Android,128,12,6.1,5G,448,68
+Apple Pro Max_125,Apple,,128,12,6.4,4G LTE,550,77
+Vivo Galaxy_126,Vivo,Android,512,12,6.2,5G,1218,89
+Google Galaxy_127,Google,Android,256,16,6.8,5G,1175,86
+Samsung Galaxy_128,Samsung,,128,6,6.7,5G,350,58
+Vivo Galaxy_129,Vivo,Android,256,12,6.8,5G,571,78
+Vivo Galaxy_130,Vivo,Android,256,8,6.6,4G LTE,523,79
+Oppo Galaxy_131,Oppo,Android,128,12,6.6,4G LTE,643,73
+Vivo Galaxy_132,Vivo,Android,64,4,6.5,5G,328,58
+Vivo Galaxy_133,,,128,12,6.6,4G LTE,,65
+Apple Pro Max_134,Apple,iOS,512,16,6.6,5G,1097,90
+Motorola Galaxy_135,Motorola,Android,256,12,6.8,4G LTE,721,76
+Apple Pro Max_136,Apple,iOS,128,12,6.6,5G,517,63
+Apple Pro Max_137,Apple,,256,8,6,4G LTE,554,61
+Samsung Galaxy_138,Samsung,Android,256,12,6.2,4G LTE,592,74
+Oppo Galaxy_139,Oppo,Android,1024,12,6.1,5G,,83
+Oppo Galaxy_140,Oppo,Android,1024,12,6.9,4G LTE,1260,95
+Vivo Galaxy_141,Vivo,Android,256,12,6.7,5G,531,61
+Google Galaxy_142,Google,Android,128,12,6.4,5G,,79
+OnePlus Galaxy_143,OnePlus,Android,256,12,6.7,4G LTE,,73
+Xiaomi Galaxy_144,Xiaomi,Android,256,12,6.4,4G LTE,695,70
+Oppo Galaxy_145,Oppo,Android,128,4,6.9,4G LTE,344,41
+OnePlus Galaxy_146,OnePlus,Android,128,12,6.9,5G,513,67
+Google Galaxy_147,Google,Android,128,8,6,5G,559,75
+Google Galaxy_148,Google,Android,64,6,6.2,4G LTE,283,53
+Motorola Galaxy_149,Motorola,Android,256,8,6.4,5G,532,76
+Apple Pro Max_150,Apple,,512,12,6.3,5G,895,93
+Oppo Galaxy_151,Oppo,Android,256,8,6.4,4G LTE,603,61
+Vivo Galaxy_152,Vivo,Android,128,6,6.5,4G LTE,349,52
+Xiaomi Galaxy_153,Xiaomi,Android,256,8,6.5,4G LTE,718,78
+Apple Pro Max_154,Apple,iOS,1024,16,6.6,4G LTE,1468,85
+Samsung Galaxy_155,,Android,128,12,6.1,4G LTE,653,64
+Google Galaxy_156,Google,Android,256,12,6.6,4G LTE,590,78
+Oppo Galaxy_157,Oppo,Android,128,12,6.4,4G LTE,716,74
+Motorola Galaxy_158,Motorola,Android,128,12,6.5,4G LTE,628,68
+Motorola Galaxy_159,Motorola,Android,256,8,6.3,4G LTE,604,69
+Vivo Galaxy_160,Vivo,Android,128,8,6,4G LTE,729,80
+Motorola Galaxy_161,Motorola,Android,128,8,6.1,4G LTE,690,67
+Xiaomi Galaxy_162,Xiaomi,,128,12,6,5G,476,80
+Google Galaxy_163,Google,Android,128,12,6,4G LTE,490,64
+Samsung Galaxy_164,Samsung,Android,128,4,6,4G LTE,350,50
+Samsung Galaxy_165,Samsung,Android,256,16,6.1,5G,1289,82
+Motorola Galaxy_166,Motorola,Android,128,12,6.9,4G LTE,658,68
+OnePlus Galaxy_167,OnePlus,Android,128,4,6.6,4G LTE,215,55
+Apple Pro Max_168,Apple,iOS,128,6,6.5,4G LTE,218,42
+Apple Pro Max_169,Apple,iOS,128,12,6.8,5G,720,79
+Oppo Galaxy_170,Oppo,Android,256,12,6.6,4G LTE,659,80
+Apple Pro Max_171,Apple,iOS,64,6,6.6,4G LTE,315,47
+Vivo Galaxy_172,Vivo,Android,256,12,6.6,5G,449,71
+OnePlus Galaxy_173,OnePlus,Android,256,8,6.1,4G LTE,643,63
+Apple Pro Max_174,Apple,iOS,256,8,6.8,4G LTE,591,65
+Motorola Galaxy_175,Motorola,Android,64,6,6,5G,290,53
+OnePlus Galaxy_176,OnePlus,,256,8,6.3,4G LTE,696,77
+Vivo Galaxy_177,,Android,128,8,6.5,4G LTE,580,78
+OnePlus Galaxy_178,OnePlus,Android,1024,12,6.8,5G,1190,94
+Samsung Galaxy_179,Samsung,Android,128,4,6.4,5G,246,48
+Motorola Galaxy_180,,Android,128,8,6.6,4G LTE,474,79
+Google Galaxy_181,Google,Android,64,4,6.3,4G LTE,391,56
+Vivo Galaxy_182,Vivo,Android,512,12,6.5,5G,1129,85
+Apple Pro Max_183,Apple,iOS,256,12,6.9,4G LTE,912,93
+Apple Pro Max_184,Apple,iOS,256,12,6.7,5G,739,74
+Oppo Galaxy_185,,,256,8,6.5,5G,663,64
+Apple Pro Max_186,Apple,iOS,512,16,6.4,4G LTE,1290,91
+Oppo Galaxy_187,Oppo,Android,128,8,6.3,4G LTE,505,70
+OnePlus Galaxy_188,OnePlus,Android,256,12,6.7,5G,462,61
+Google Galaxy_189,,,128,12,6.8,5G,673,68
+Apple Pro Max_190,Apple,iOS,128,4,6.7,5G,311,40
+Motorola Galaxy_191,Motorola,Android,1024,16,6.6,5G,1338,87
+Oppo Galaxy_192,Oppo,Android,256,16,6.9,5G,926,93
+Motorola Galaxy_193,Motorola,Android,128,12,6.6,5G,455,68
+Apple Pro Max_194,Apple,iOS,256,12,6.5,5G,574,68
+Apple Pro Max_195,,iOS,128,8,6.2,4G LTE,579,72
+Google Galaxy_196,Google,Android,256,8,6.2,4G LTE,489,80
+Google Galaxy_197,Google,Android,1024,16,6.9,5G,1226,93
+Vivo Galaxy_198,Vivo,Android,1024,16,6.2,5G,1393,86
+Vivo Galaxy_199,,Android,256,12,6,5G,541,79
